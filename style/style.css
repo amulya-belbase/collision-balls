@@ -1,0 +1,12 @@
+#main_container {
+    border: 1px solid black;
+    width: 1440px;
+    height: 720px;
+    position: relative;
+    box-sizing: border-box;
+  }
+
+#balls{
+  position: absolute;
+}
+  
